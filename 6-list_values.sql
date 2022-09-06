@@ -1,0 +1,1 @@
+-- List all rows in a database
